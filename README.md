@@ -6,3 +6,4 @@ Programma izveido grafisku logu ar laukiem teksta ievadīšanai, ievadot tajos t
 **Kas ir Cēzara šifrs?**
 Cēzara šifrs ir aizstāšanas šifra veids, kurā katra rakstzīme vienkāršajā tekstā tiek aizstāta ar rakstzīmi, kas ir konstants pozīciju skaits pa kreisi vai pa labi no tā alfabētā.
 
+Arī ir jau kompīlets **.exe** fails.
